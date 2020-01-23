@@ -1,0 +1,3 @@
+Despite this txt, this "hello__world" is the copy of the previous one.
+
+"Here is something written by myself and different from the one written by my colleagues."
