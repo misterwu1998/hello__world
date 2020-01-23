@@ -1,0 +1,2 @@
+刚新建此文本文档时，在此处打开Git Bash，输入“git status”会显示Untracked files，说明此文件还未add。
+然后根据其给的指令add此文件，再查看git status文件名会由红变绿，表明Git已经接管此文件，只是未上传至远端
